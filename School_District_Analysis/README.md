@@ -1,5 +1,5 @@
 # School_District_Analysis
-## Purpose: 
+## Purpose
 Helping Maria to analyze data on student funsing and student's standardized test score which Math and Reading scores. This will help to arregate the datat anf showcase trends in school performance. 
 
 ## Results

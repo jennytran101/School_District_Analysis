@@ -31,9 +31,11 @@ Top 5 high performing school are:
 
   - Math and reading scores by grade
 Math score is affected by Thomas High School ninth grade, there is a missing Math grade for 9th grade
+
   ![Math score](/Resources/mathbygrade.png)
 
 Reading score is affected by Thomas High School ninth grade, there is a missing Reading grade for 9th grade
+
   ![Reading score](/Resources/readingbygrade.png)
 
   - Scores by school spending

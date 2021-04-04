@@ -1,5 +1,4 @@
 # School_District_Analysis
-# Module 4 | Assignment - PyCitySchools
 ## Purpose: 
 Helping Maria to analyze data on student funsing and student's standardized test score which Math and Reading scores. This will help to arregate the datat anf showcase trends in school performance. 
 
@@ -12,7 +11,6 @@ There are total 15 schools in the school district, the school districs is affect
 The school summary os affected by % passing Math. The low % passing Math will make the % overal passing low.
 
 - Top 5 high performing school:
-Top 5 high performing school are:
    1. Caberea High School with 91.33% overall passing 
    2. Thomas High School with 90.63% overall passing
    3. Griffin High School with 90.60% overall passing
@@ -27,26 +25,26 @@ Top 5 high performing school are:
     5. Johnson High School with 53.54% overall passing
 
 
-- How does replacing the ninth-grade scores affect the following:
+- How does replacing the ninth-grade scores affect the following?
 
-  - Math and reading scores by grade
+  - Math and reading scores by grade:
 Math score is affected by Thomas High School ninth grade, there is a missing Math grade for 9th grade
 
 
 Reading score is affected by Thomas High School ninth grade, there is a missing Reading grade for 9th grade
 
 
-  - Scores by school spending
+  - Scores by school spending:
 If we compare 4 spending range, we can can the range between $645and $675 gets the lowers overall passing (54%) because it has the low % passing Math (which is 66%)
 
 
 
-  - Scores by school size
+  - Scores by school size:
 In 3 range of the school size, we can see the large size (2000-5000) get the low % overall passing grade which is 58%. It is affected because the average math and % passing Math is below 80
 
 
 
-  - Scores by school type
+  - Scores by school type:
 The students at the charter schools have overall passing grade is 90% which is much more than the % overall passing grade of the students at the district schools which is 54%. The district schools got the % passing grade Math is 67% which is 27% less than charter schools.
 
  

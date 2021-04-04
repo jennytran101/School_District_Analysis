@@ -31,25 +31,24 @@ Top 5 high performing school are:
 
   - Math and reading scores by grade
 Math score is affected by Thomas High School ninth grade, there is a missing Math grade for 9th grade
-  ![Math score](/Resources/mathbygrade.png)
+  
 
 Reading score is affected by Thomas High School ninth grade, there is a missing Reading grade for 9th grade
-  ![Reading score](/Resources/readingbygrade.png)
+
 
   - Scores by school spending
 If we compare 4 spending range, we can can the range between $645and $675 gets the lowers overall passing (54%) because it has the low % passing Math (which is 66%)
 
-  ![Score by school spending](/Resources/scorebyspending.png)
-
+  
   - Scores by school size
 In 3 range of the school size, we can see the large size (2000-5000) get the low % overall passing grade which is 58%. It is affected because the average math and % passing Math is below 80
 
-  ![Score by school size](/Resources/scorebyschoolsize.png)
+ 
 
   - Scores by school type
 The students at the charter schools have overall passing grade is 90% which is much more than the % overall passing grade of the students at the district schools which is 54%. The district schools got the % passing grade Math is 67% which is 27% less than charter schools.
 
-  ![Score by school type](/Resources/scorebyschooltype.png)
+  
 
 ## Summary
 
